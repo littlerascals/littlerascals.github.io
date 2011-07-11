@@ -50,6 +50,11 @@ body {
     float: right;
 }
 
+#header .selected {
+    background-image:url('../images/heart.png');
+    background-repeat:no-repeat;
+}
+
 #header ul li a {
     color: #6cb6b3;  /* blue from logo */
 }
