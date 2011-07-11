@@ -3,13 +3,14 @@ h1 {
 }
 
 p {
-    font: 1.1em PacificoRegular, Arial, sans-serif;
+    font: 1em ColaborateLiteRegular, Arial, sans-serif;
 }
 
 body {
     background: #6cb6b3;  /* blue from logo */
     background: #e45a2f;  /* red from logo */
     background: #dfd5c4;  /* light tan from logo */
+    font: 1em ColaborateLiteRegular, Arial, sans-serif;
 }
 
 #content img {
