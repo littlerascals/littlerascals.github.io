@@ -1,8 +1,6 @@
 Ideas for Improving Site
 ========================
 
-- install heart as favicon
-
 - finish styling text
 
 - adjust copy and box layout
