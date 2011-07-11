@@ -1,0 +1,94 @@
+h1 {
+    font: 3em PacificoRegular, Arial, sans-serif;
+}
+
+p {
+    font: 1.1em PacificoRegular, Arial, sans-serif;
+}
+
+body {
+    background: #6cb6b3;  /* blue from logo */
+    background: #e45a2f;  /* red from logo */
+    background: #dfd5c4;  /* light tan from logo */
+}
+
+#content img {
+    height: 28em;
+    width: 22em;
+}
+
+#page {
+    color: #493c37;  /* dark brown from logo */
+    background: white;
+    position: float;
+    padding: 1em;
+    margin: 2em auto;
+    width: 78em;
+}
+
+#header {
+    position: relative;
+    clear: both;
+    font: 3em PacificoRegular, Arial, sans-serif;
+}
+
+#header img {
+    position: relative;
+    height: 4.5em;
+    bottom: -0.15em;
+}
+
+#header ul {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+#header li {
+    padding: 0em 0.5em;
+    float: right;
+}
+
+#header ul li a {
+    color: #6cb6b3;  /* blue from logo */
+}
+
+#header ul li a:active, #header ul li a:hover {
+    color: #e45a2f;  /* red from logo */
+}
+
+
+#header a {
+    text-decoration: none;
+}
+
+#content {
+    clear: both;
+}
+
+#content .column {
+    float: left;
+}
+
+.box {
+    width: 22em;
+    padding: 1em;
+    margin: 0em 1em 2em;
+    background: #6cb6b3;  /* blue from logo */
+    background: #dfd5c4;  /* light tan from logo */
+}
+
+
+.signature {
+    position: relative;
+    left: 10em;
+    bottom: -1em;
+}
+
+.alone {
+    min-height: 28em;
+}
+
+#footer {
+    clear: both;
+}
