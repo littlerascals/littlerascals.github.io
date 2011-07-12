@@ -37,12 +37,13 @@ body {
 }
 
 #header .selected {
-    background-image:url('../images/heart.png');
+    color: #6cb6b3;  /* blue from logo */
+    background-image: url('../images/heart-big.png');
     background-repeat:no-repeat;
 }
 
 #header ul a {
-    color: #6cb6b3;  /* blue from logo */
+    color: #594c47;  /* dark brown from logo */
 }
 
 #header ul a:active, #header ul a:hover {
@@ -71,11 +72,11 @@ body {
 
 #content h1 {
     font: 2em PacificoRegular, Arial, sans-serif;
+    color: #6cb6b3;  /* blue from logo */
 }
 
 #content h2 {
     font: 1.5em PacificoRegular, Arial, sans-serif;
-    color: #6cb6b3;  /* blue from logo */
 }
 
 #content p {
@@ -83,8 +84,13 @@ body {
     margin: 1em 0em;
 }
 
+#content a {
+    color: #6cb6b3;  /* blue from logo */
+    font-weight: bold;
+}
+
 #content ul {
-    list-style-type: disc;
+    list-style-image: url('../images/heart-bullet.png');
     margin: 0em 0em 0em 2em;
 }
 
@@ -94,6 +100,14 @@ body {
 
 #content dl dd {
     margin: 0em 0em 0em 2em;
+}
+
+#content table tr {
+    border-bottom: 1px solid;
+}
+
+#content table th {
+    padding-right: 1em;
 }
 
 #content img {
