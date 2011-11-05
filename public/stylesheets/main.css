@@ -1,5 +1,6 @@
 body {
-    background: #dfd5c4;  /* light tan from logo */
+    /* background: #dfd5c4;  /* logo_tan */
+    background: #efeae1;  /* avg(logo_tan, white) */
     font: 1em ColaborateLiteRegular, Arial, sans-serif;
 }
 
@@ -15,7 +16,7 @@ body {
 #header {
     position: relative;
     clear: both;
-    font: 3em PacificoRegular, Arial, sans-serif;
+    font: 2.5em PacificoRegular, Arial, sans-serif;
 }
 
 #header img {
@@ -67,7 +68,7 @@ body {
     width: 22em;
     padding: 1em;
     margin: 0em 1em 2em;
-    background: #dfd5c4;  /* light tan from logo */
+    background: #f4f1eb;  /* (logo_tan + white*2)/3 */
 }
 
 #content h1 {
