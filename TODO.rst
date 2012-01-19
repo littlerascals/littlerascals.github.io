@@ -1,12 +1,18 @@
 Ideas for Improving Site
 ========================
 
-- lower resolution of images
+- Finish thumbnailing gallery.
 
-- search engine optimization (start with keywords)
+- Figure out how to make a special deal banner.
 
-    - consider "title" attribute for all links (<a>'s)
+- Lower resolution of images.
 
-- start work on new layout idea (moving sidebar)
+- Look for a better font for the front page.
 
-- make a mobile-friendly layout
+- Clean out unused styles and javascripts.
+
+- Search engine optimization (start with keywords).
+
+    - Consider "title" attribute for all links (<a>'s).
+
+- Make a mobile-friendly layout.

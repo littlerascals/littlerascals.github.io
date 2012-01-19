@@ -16,7 +16,7 @@ body {
 #header {
     position: relative;
     clear: both;
-    font: 2.5em PacificoRegular, Arial, sans-serif;
+    font: 2.25em PacificoRegular, Arial, sans-serif;
 }
 
 #header img {
@@ -116,18 +116,37 @@ body {
     width: 22em;
 }
 
+#content.reviews img {
+    background-color: white;
+    height: 10em;
+    width: 10em;
+    margin: 0em 6em;
+    padding: 0.5em;
+}
+
 #content .personal {
     font-family: PacificoRegular, Arial, sans-serif;
 }
 
 #content .signature {
     position: relative;
-    left: 10em;
+    left: 0em;
     bottom: -1em;
 }
 
 #content .alone {
     min-height: 28em;
+}
+
+.highslide-gallery {
+    position: relative;
+    padding: 1em;
+    left: 1em;
+}
+
+#content .highslide img {
+    width: 12em;
+    height: 12em;
 }
 
 #footer {
