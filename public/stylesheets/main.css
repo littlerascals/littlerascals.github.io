@@ -26,6 +26,18 @@ body {
     margin: 0em 1em;
 }
 
+#header #deal {
+    position: absolute;
+    top: 0.5em;
+    right: 2em;
+    color: #e45a2f;  /* red from logo */
+    font: 1.25em PermanentMarkerRegular, Arial, sans-serif;
+    /*
+    background-image: url('../images/paw_print.png');
+    background-repeat:no-repeat;
+    */
+}
+
 #header ul {
     position: absolute;
     bottom: 0;
@@ -50,7 +62,6 @@ body {
 #header ul a:active, #header ul a:hover {
     color: #e45a2f;  /* red from logo */
 }
-
 
 #header a {
     text-decoration: none;
