@@ -1,3 +1,3 @@
 #!/bin/sh
 
-mogrify -resize 167x157 -density 100x100 *.jpg
+mogrify -resize 167x167 -density 100x100 *.jpg
