@@ -1,14 +1,16 @@
 Ideas for Improving Site
 ========================
 
-- Finish thumbnailing gallery.
+- get off of Rails and onto Haskell
 
-- Look for a better font for the front page.
+- finish thumbnailing gallery
 
-- Clean out unused styles and javascripts.
+- look for a better font for the front page
 
-- Search engine optimization (start with keywords).
+- clean out unused styles and javascripts
 
-    - Consider "title" attribute for all links (<a>'s).
+- search engine optimization (start with keywords)
 
-- Make a mobile-friendly layout.
+    - consider "title" attribute for all links (<a>'s)
+
+- make a mobile-friendly layout
