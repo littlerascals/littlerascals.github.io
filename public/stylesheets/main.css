@@ -21,9 +21,9 @@ body {
 
 #header img {
     position: relative;
-    height: 4.5em;
-    bottom: -0.15em;
-    margin: 0em 1em;
+    height: 5em;
+    bottom: -0.25em;
+    margin: 0em 0em 0em 1em;
 }
 
 #header #deal {
