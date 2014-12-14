@@ -32,10 +32,6 @@ body {
     right: 2em;
     color: #e45a2f;  /* red from logo */
     font: 1.25em PermanentMarkerRegular, Arial, sans-serif;
-    /*
-    background-image: url('../images/paw_print.png');
-    background-repeat:no-repeat;
-    */
 }
 
 #header ul {
